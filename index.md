@@ -12,7 +12,7 @@ I completed my B.Tech in Computer Science & Engineering from Jadavpur University
 
 **2. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta  
-27th ACM International Conference on Information and Knowledge Management (CIKM), 2018 
+27th ACM International Conference on Information and Knowledge Management (CIKM), 2018  
 [[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
 **3. Open Information Extraction from Conjunctive Sentences**  
@@ -32,5 +32,5 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 
 **6. Bootstrapping for Numerical Open IE**  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
-55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
+55th Annual Meeting of the Association for Computational Linguistics(ACL),2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
