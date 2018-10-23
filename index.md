@@ -4,6 +4,13 @@ Before joining IBM Research, I was an M.Tech student and a Teaching Assistant in
 
 I completed my B.Tech in Computer Science & Engineering from Jadavpur University, India in 2014. Following my B.Tech, I spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. My broad research interests are in Natural Language Processing, Computational Linguistics and Machine Learning. In NLP, my specific research areas are Information Extraction, Textual Entailment and various educational applications of NLP.
 
+### Recent News
+
+* **August 2018**: Presented our paper at COLING 2018, Santa Fe, New Mexico, USA.  
+* **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.  
+* **May 2018**: Full research paper accepted at COLING 2018, Santa Fe, New Mexico, USA.  
+* **March 2018**: Two full research papers accepted at AIED 2018, London, UK.
+
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
 **1. Neural Multi-Domain Learning for Automatic Short Answer Grading**  
@@ -11,7 +18,7 @@ I completed my B.Tech in Computer Science & Engineering from Jadavpur University
 [Under Review] 33rd AAAI Conference on Artificial Intellience (AAAI), 2019
 
 **2. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
-Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta  
+Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018  
 [[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
