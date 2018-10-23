@@ -6,9 +6,13 @@ I completed my B.Tech in Computer Science & Engineering from Jadavpur University
 
 ### Publications
 
-**1.Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**
+**1. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**
+
 Smit Marvaniya, Swarnadeep Saha, Tejas Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta
+
 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018
+
+[[paper]({{site.url}}/papers/CIKM18.pdf)]
 
 
 ### Markdown
