@@ -32,5 +32,5 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 
 **6. Bootstrapping for Numerical Open IE**  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
-55th Annual Meeting of the Association for Computational Linguistics(ACL),2017  
+55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
