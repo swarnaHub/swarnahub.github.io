@@ -41,3 +41,12 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
+
+### Teaching
+
+* [COL 774: Machine Learning](http://www.cse.iitd.ac.in/~parags/teaching/2017/sp17/col774/)  
+Instructor: [Prof. Parag Singla](http://www.cse.iitd.ac.in/~parags/teaching.html)
+
+* [COL 333/COL 671: Artificial Intelligence](http://www.cse.iitd.ac.in/~mausam/courses/col333/autumn2016/)  
+Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
+
