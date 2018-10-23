@@ -6,43 +6,31 @@ I completed my B.Tech in Computer Science & Engineering from Jadavpur University
 
 ### Publications
 
-**1. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**
+**1. Neural Multi-Domain Learning for Automatic Short Answer Grading**  
+**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
+[Under Review] 33rd AAAI Conference on Artificial Intellience (AAAI), 2019
 
-Smit Marvaniya, Swarnadeep Saha, Tejas Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta
+**2. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
+Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta  
+27th ACM International Conference on Information and Knowledge Management (CIKM), 2018 
+[[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
-27th ACM International Conference on Information and Knowledge Management (CIKM), 2018
+**3. Open Information Extraction from Conjunctive Sentences**  
+**Swarnadeep Saha**, and Mausam  
+27th International Conference on Computational Linguistics (COLING), 2018  
+[[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
 
-[[paper]({{site.url}}/papers/CIKM18.pdf)]
+**4. Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both**  
+**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Renuka Sindhgatta, and Bikram Sengupta  
+19th International Conference of AI in Education(AIED), 2018  
+[[paper](https://swarnahub.github.io/papers/AIED18a.pdf)]
 
+**5. Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors**  
+Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and Bikram Sengupta  
+19th International Conference of AI in Education(AIED), 2018  
+[[paper](https://swarnahub.github.io/papers/AIED18b.pdf)]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swarnaHub/swarna.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**6. Bootstrapping for Numerical Open IE**  
+**Swarnadeep Saha**, Harinder Pal, and Mausam  
+55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
+[[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
