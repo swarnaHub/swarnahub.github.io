@@ -4,7 +4,7 @@ Before joining IBM Research, I was an M.Tech student and a Teaching Assistant in
 
 I completed my B.Tech in Computer Science & Engineering from Jadavpur University, India in 2014. Following my B.Tech, I spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. My broad research interests are in Natural Language Processing, Computational Linguistics and Machine Learning. In NLP, my specific research areas are Information Extraction, Textual Entailment and various educational applications of NLP.
 
-### Publications
+### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
 **1. Neural Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
