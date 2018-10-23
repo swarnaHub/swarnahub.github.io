@@ -4,9 +4,12 @@ Before joining IBM Research, I was an M.Tech student and a Teaching Assistant in
 
 I completed my B.Tech in Computer Science & Engineering from Jadavpur University, India in 2014. Following my B.Tech, I spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. My broad research interests are in Natural Language Processing, Computational Linguistics and Machine Learning. In NLP, my specific research interests are in the areas of Information Extraction (Open and Closed), Textual Entailment and all educational applications of NLP.
 
-You can use the [editor on GitHub](https://github.com/swarnaHub/swarna.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**1.Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**
+Smit Marvaniya, Swarnadeep Saha, Tejas Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta
+27th ACM International Conference on Information and Knowledge Management (CIKM), 2018
+
 
 ### Markdown
 
