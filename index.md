@@ -1,4 +1,4 @@
-![Image](photo.jpg)
+![Image](photo.JPG)
 
 ## Welcome to GitHub Pages
 
