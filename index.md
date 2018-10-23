@@ -13,31 +13,31 @@ I completed my B.Tech in Computer Science & Engineering from Jadavpur University
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-**1. Neural Multi-Domain Learning for Automatic Short Answer Grading**  
+* **Neural Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
 [Under Review] 33rd AAAI Conference on Artificial Intellience (AAAI), 2019
 
-**2. Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
+* **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018  
 [[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
-**3. Open Information Extraction from Conjunctive Sentences**  
+* **Open Information Extraction from Conjunctive Sentences**  
 **Swarnadeep Saha**, and Mausam  
 27th International Conference on Computational Linguistics (COLING), 2018  
 [[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
 
-**4. Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both**  
+* **Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
 [[paper](https://swarnahub.github.io/papers/AIED18a.pdf)]
 
-**5. Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors**  
+* **Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors**  
 Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
 [[paper](https://swarnahub.github.io/papers/AIED18b.pdf)]
 
-**6. Bootstrapping for Numerical Open IE**  
+* **Bootstrapping for Numerical Open IE**  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
