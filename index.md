@@ -25,22 +25,22 @@ Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sind
 **3. Open Information Extraction from Conjunctive Sentences**  
 **Swarnadeep Saha**, and Mausam  
 27th International Conference on Computational Linguistics (COLING), 2018  
-[[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
+[[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[slides](https://swarnahub.github.io/papers/COLING18Slides.pptx)]
 
 **4. Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
-[[paper](https://swarnahub.github.io/papers/AIED18a.pdf)]
+[[paper](https://swarnahub.github.io/papers/AIED18a.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18aSlides.pptx)]
 
 **5. Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors**  
 Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
-[[paper](https://swarnahub.github.io/papers/AIED18b.pdf)]
+[[paper](https://swarnahub.github.io/papers/AIED18b.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18bSlides.pptx)]
 
 **6. Bootstrapping for Numerical Open IE**  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
-[[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)]
+[[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
 
 ### Teaching
 
