@@ -6,7 +6,7 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Recent News
 
-* **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutor.
+* **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.
 * **August 2018**: Presented our paper (Oral) at COLING 2018, Santa Fe, New Mexico, USA.  
 * **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.  
 * **May 2018**: Full research paper accepted at COLING 2018, Santa Fe, New Mexico, USA.  
