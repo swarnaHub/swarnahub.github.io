@@ -6,7 +6,8 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Recent News
 
-* **August 2018**: Presented our paper at COLING 2018, Santa Fe, New Mexico, USA.  
+* **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutor.
+* **August 2018**: Presented our paper (Oral) at COLING 2018, Santa Fe, New Mexico, USA.  
 * **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.  
 * **May 2018**: Full research paper accepted at COLING 2018, Santa Fe, New Mexico, USA.  
 * **March 2018**: Two full research papers accepted at AIED 2018, London, UK.
@@ -53,5 +54,6 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ### Awards
 
+* Research appreciation award by director of IBM Research India for contributions to Watson Tutor (2018).
 * Manager's choice award at IBM Research - India for research contributions (2018).
 * Best Masters thesis award at IIT Delhi (2017).
