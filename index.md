@@ -14,9 +14,13 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
+* **Aligning Learning Objectives to Learning Resources - A Spatial Neural Approach**
+**Swarnadeep Saha**, Tejas I. Dhamecha and Malolan Chetlur
+[Working Paper]
+
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
-[Under Review] The Web Conference (WWW), 2019  
+[Under Review]  
 [[paper](https://swarnahub.github.io/papers/WWW19.pdf)]
 
 * **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
