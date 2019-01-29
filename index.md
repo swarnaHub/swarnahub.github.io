@@ -14,8 +14,8 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-* **Aligning Learning Objectives to Learning Resources - A Spatial Neural Approach**
-**Swarnadeep Saha**, Tejas I. Dhamecha and Malolan Chetlur
+* **Aligning Learning Objectives to Learning Resources - A Spatial Neural Approach**  
+**Swarnadeep Saha**, Tejas I. Dhamecha and Malolan Chetlur  
 [Working Paper]
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
