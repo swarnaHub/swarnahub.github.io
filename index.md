@@ -16,12 +16,13 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach**  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
+28th International Joint Conference on Artificial Intelligence (IJCAI)  
 [Under Review]  
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
-[Under Review]  
-[[paper](https://swarnahub.github.io/papers/WWW19.pdf)]
+Pre-print
+[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]
 
 * **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
