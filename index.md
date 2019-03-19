@@ -6,7 +6,8 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Recent News
 
-* **February 2019**: PhD admits in the NLP/ML groups at Purdue and University of North Carolina, Chapel Hill.  
+* **March 2019**: Joining the UNC NLP lab this fall for PhD with Prof. Mohit Bansal.
+* **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
 * **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
 * **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.  
 * **August 2018**: Presented our paper (Oral) at COLING 2018, Santa Fe, New Mexico, USA.  
