@@ -64,3 +64,7 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 * Research appreciation award by director of IBM Research India for contributions to Watson Tutor (2018).
 * Manager's choice award at IBM Research - India for research contributions (2018).
 * Best Masters thesis award at IIT Delhi (2017).
+
+### Professional Service
+
+* Reviewer for AIED 2019, NAACL 2019, EMNLP 2018
