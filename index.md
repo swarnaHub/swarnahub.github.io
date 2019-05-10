@@ -6,6 +6,7 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Recent News
 
+* **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
 * **March 2019**: Joining the UNC NLP lab this fall for PhD with Prof. Mohit Bansal.
 * **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
 * **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
@@ -17,9 +18,9 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach**  
-**Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
+**Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole
 28th International Joint Conference on Artificial Intelligence (IJCAI)  
-[Under Review]  
+[[paper]()]  
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
