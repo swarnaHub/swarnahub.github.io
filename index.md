@@ -17,9 +17,9 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach**  
+* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
-28th International Joint Conference on Artificial Intelligence (IJCAI)  
+28th International Joint Conference on Artificial Intelligence (IJCAI), 2019    
 [[paper]()]  
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
@@ -27,27 +27,27 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 Pre-print
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]
 
-* **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  
+* **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  [Acceptance Rate: 17%]  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018  
 [[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
-* **Open Information Extraction from Conjunctive Sentences**  
+* **Open Information Extraction from Conjunctive Sentences** [Acceptance Rate: 37%]  
 **Swarnadeep Saha**, and Mausam  
 27th International Conference on Computational Linguistics (COLING), 2018  
 [[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[slides](https://swarnahub.github.io/papers/COLING18Slides.pptx)]
 
-* **Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both**  
+* **Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both** [Acceptance Rate: 25%]  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
 [[paper](https://swarnahub.github.io/papers/AIED18a.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18aSlides.pptx)]
 
-* **Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors**  
+* **Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors** [Acceptance Rate: 25%]  
 Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and Bikram Sengupta  
 19th International Conference of AI in Education(AIED), 2018  
 [[paper](https://swarnahub.github.io/papers/AIED18b.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18bSlides.pptx)]
 
-* **Bootstrapping for Numerical Open IE**  
+* **Bootstrapping for Numerical Open IE** [Acceptance Rate: 18%]  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
