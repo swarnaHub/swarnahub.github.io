@@ -4,7 +4,7 @@ Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant i
 
 I completed my B.E. in Computer Science & Engineering from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. I love language and develop computational models for understanding language, primarily in the areas of Information Extraction, Natural Language Inference and Question Answering. My broad research interests are in Natural Language Processing, Computational Linguistics, Machine Learning and Deep Learning.
 
-### Recent News
+## Recent News
 
 * **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
 * **March 2019**: Joining the UNC NLP lab this fall for PhD with Prof. Mohit Bansal.
@@ -15,17 +15,17 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 * **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.  
 * **May 2018**: Full research paper accepted at COLING 2018, Santa Fe, New Mexico, USA. 
 
-### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
+## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-#### Pre-prints and Workshops
+### Pre-prints and Workshops
 
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
-Pre-print
+arXiv:1902.09183
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
-#### Archival Conference Papers
+### Archival Conference Papers
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
@@ -57,7 +57,7 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 55th Annual Meeting of the Association for Computational Linguistics(ACL), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
 
-### Teaching
+## Teaching
 
 * [COL 774: Machine Learning - Spring 2016](http://www.cse.iitd.ac.in/~parags/teaching/2017/sp17/col774/)  
 Instructor: [Prof. Parag Singla](http://www.cse.iitd.ac.in/~parags/teaching.html)
@@ -65,12 +65,12 @@ Instructor: [Prof. Parag Singla](http://www.cse.iitd.ac.in/~parags/teaching.html
 * [COL 333/COL 671: Artificial Intelligence - Fall 2016](http://www.cse.iitd.ac.in/~mausam/courses/col333/autumn2016/)  
 Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
-### Awards
+## Awards
 
 * Research appreciation award by director of IBM Research India for contributions to Watson Tutor (2018).
 * Manager's choice award at IBM Research - India for research contributions (2018).
 * Best Masters thesis award at IIT Delhi (2017).
 
-### Professional Service
+## Professional Service
 
 * Reviewer for AIED 2019, NAACL 2019, EMNLP 2018
