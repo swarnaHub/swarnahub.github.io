@@ -17,15 +17,22 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
-**Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
-28th International Joint Conference on Artificial Intelligence (IJCAI), 2019    
-[[paper]()]  
+Most conferences below are top-ranked conferences in the areas of NLP, Data Mining, AI and ML.
+
+#### Pre-prints and Posters
+
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
 Pre-print
-[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]
+[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
+
+#### Archival Conference Papers
+
+* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
+**Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha and Shantanu Godbole  
+28th International Joint Conference on Artificial Intelligence (IJCAI), 2019    
+[[paper]()]  
 
 * **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  [Acceptance Rate: 17%]  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
