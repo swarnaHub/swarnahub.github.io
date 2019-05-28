@@ -17,8 +17,6 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-Most conferences below are top-ranked conferences in the areas of NLP, Data Mining, AI and ML.
-
 #### Pre-prints and Posters
 
 
