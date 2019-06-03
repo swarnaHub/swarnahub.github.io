@@ -30,7 +30,7 @@ arXiv:1902.09183
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas I. Dhamecha, Shantanu Godbole, and others  
 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019    
-[[paper]()]  
+[[paper](https://swarnahub.github.io/papers/IJCAI19.pdf)]  
 
 * **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  [Acceptance Rate: 17%]  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
