@@ -28,7 +28,7 @@ arXiv:1902.09183
 ### Archival Conference Papers
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
-**Swarnadeep Saha**, Malolan Chetlur, Tejas Indulal Dhamecha, W M Gayathri K Wijayarathna, Red Mendoza, Paul Gagnon, Nabil Zary, Shantanu Godbole  
+**Swarnadeep Saha**, Malolan Chetlur, Tejas Indulal Dhamecha, W M Gayathri K Wijayarathna, Red Mendoza, Paul Gagnon, Nabil Zary, and Shantanu Godbole  
 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019    
 [[paper](https://swarnahub.github.io/papers/IJCAI19.pdf)]  
 
