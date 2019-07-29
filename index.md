@@ -1,13 +1,13 @@
-I am a Research Engineer in the Watson Education group at [IBM Research - India](https://www.research.ibm.com/labs/india/). At IBM, I build industry-scale Intelligent Tutoring Systems by developing novel machine learning models for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018), content understanding (IJCAI 2019) and other real-world Natural Language Understanding problems.
+I am an incoming CS PhD student in the [UNC NLP lab](https://nlp.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems. Precisely, I developed novel machine learning models for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018), content understanding (IJCAI 2019) and other real-world Natural Language Understanding problems in the Education domain.
 
-Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant in the Computer Science & Engineering department of Indian Institute of Technology, Delhi from 2015-2017. I was affiliated with the [Data Analytics and Intelligence Research Group](https://www.cse.iitd.ac.in/dair/) and was advised by [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/). In my master's thesis, I developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018).
+Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant in the CS department at IIT, Delhi. I was affiliated with the [Data Analytics and Intelligence Research Group](https://www.cse.iitd.ac.in/dair/) and was advised by [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/). In my master's thesis, I developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018).
 
-I completed my B.E. in Computer Science & Engineering from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. I love language and develop computational models for understanding language, primarily in the areas of Information Extraction, Natural Language Inference and Question Answering. My broad research interests are in Natural Language Processing, Computational Linguistics, Machine Learning and Deep Learning.
+I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. I love language and develop computational models for understanding language, primarily in the areas of Information Extraction, Natural Language Inference and Question Answering. My broad research interests are in Natural Language Processing, Computational Linguistics, Machine Learning and Deep Learning.
 
 ## Recent News
 
 * **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
-* **March 2019**: Joining the UNC NLP lab this fall for PhD with Prof. Mohit Bansal.
+* **March 2019**: Joining the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
 * **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
 * **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
 * **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.  
@@ -19,9 +19,13 @@ I completed my B.E. in Computer Science & Engineering from Jadavpur University, 
 
 ### Pre-prints and Workshops
 
+* **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
+Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, **Swarnadeep Saha**, and Malolan Chetlur  
+14th Workshop on Innovative Use of NLP for Building Educational Applications (**BEA**, co-located with **ACL**), 2019
+[[paper](https://swarnahub.github.io/papers/BEA19.pdf)]  
 
 * **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
-**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta and Bikram Sengupta  
+**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
 arXiv:1902.09183
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
