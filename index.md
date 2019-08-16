@@ -6,18 +6,18 @@ I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent
 
 ## Recent News
 
+* **August 2019**: Short research paper accepted at EMNLP-IJCNLP 2019, Hong Kong, China.
+* **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
 * **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
-* **March 2019**: Joining the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
 * **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
 * **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
-* **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.  
-* **August 2018**: Presented our paper (Oral) at COLING 2018, Santa Fe, New Mexico, USA.  
-* **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.  
-* **May 2018**: Full research paper accepted at COLING 2018, Santa Fe, New Mexico, USA. 
+* **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.
+* **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.
 
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
 ### Pre-prints and Workshops
+
 
 * **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
 Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, **Swarnadeep Saha**, and Malolan Chetlur  
@@ -30,6 +30,11 @@ arXiv:1902.09183
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
 ### Archival Conference Papers
+
+* **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
+Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora
+Conference on Empirical Methods on Natural Language Processing (**EMNLP-IJCNLP**), 2019
+[[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)]  
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas Indulal Dhamecha, W M Gayathri K Wijayarathna, Red Mendoza, Paul Gagnon, Nabil Zary, and Shantanu Godbole  
