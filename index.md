@@ -32,7 +32,7 @@ arXiv:1902.09183
 ### Archival Conference Papers
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
-Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora
+Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
 Conference on Empirical Methods on Natural Language Processing (**EMNLP-IJCNLP**), 2019
 [[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)]  
 
