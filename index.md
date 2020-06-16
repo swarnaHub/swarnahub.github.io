@@ -1,8 +1,6 @@
-I am a first year CS PhD student in the [UNC NLP lab](https://nlp.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I am generously supported by the institute graduate fellowship and a prestigious Munroe and Rebecca Cobey fellowship. Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems. Precisely, I developed novel machine learning models for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018), content understanding (IJCAI 2019) and other real-world Natural Language Understanding problems in the Education domain.
+I am a first year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). My research is generously supported by the institute graduate fellowship and a prestigious Munroe and Rebecca Cobey fellowship. I develop human-interpretable (graph-based, natural language explanation-based) models for downstream NLP tasks of Question Answering, Commonsense Reasoning, and Linguistic Formal Reasoning. Broadly, I am interested in explainable Natural Language Processing and primarily use Deep Learning and Reinforcement Learning to tackle such problems.
 
-Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant in the CS department at IIT, Delhi. I was affiliated with the [Data Analytics and Intelligence Research Group](https://www.cse.iitd.ac.in/dair/) and was advised by [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/). In my master's thesis, I developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018).
-
-I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. I love language and develop computational models for understanding language, primarily in the areas of Information Extraction, Natural Language Inference and Question Answering. My broad research interests are in Natural Language Processing, Computational Linguistics, Machine Learning and Deep Learning.
+Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018) and Educational content understanding (IJCAI 2019). Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant in the CS department at IIT, Delhi. For my master's thesis, I worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. 
 
 ## Recent News
 
@@ -76,10 +74,11 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Awards
 
+* Munroe and Rebecca Cobey fellowship award at UNC (2019). 
 * Research appreciation award by director of IBM Research India for contributions to Watson Tutor (2018).
 * Manager's choice award at IBM Research - India for research contributions (2018).
 * Best Masters thesis award at IIT Delhi (2017).
 
 ## Professional Service
 
-* Reviewer for AIED 2019, NAACL 2019, EMNLP 2018
+* Reviewer for EMNLP 2020, AIED 2019, NAACL 2019, EMNLP 2018
