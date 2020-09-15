@@ -4,13 +4,13 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ## Recent News
 
+* **September 2020**: Two first-author long research papers accepted at EMNLP 2020, Online.
 * **August 2019**: Short research paper accepted at EMNLP-IJCNLP 2019, Hong Kong, China.
 * **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
 * **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
 * **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
 * **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
 * **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.
-* **August 2018**: Full research paper accepted at CIKM 2018, Turin, Italy.
 
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
@@ -28,6 +28,14 @@ arXiv:1902.09183
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
 ### Archival Conference Papers
+
+* **ConjNLI: Natural Language Inference over Conjunctive Sentences**  
+**Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
+Conference on Empirical Methods on Natural Language Processing (**EMNLP**), 2020
+
+* **PRover: Proof Generation for Interpretable Reasoning over Rules**  
+**Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
+Conference on Empirical Methods on Natural Language Processing (**EMNLP**), 2020
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
 Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
@@ -81,4 +89,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for EMNLP 2020, AIED 2019, NAACL 2019, EMNLP 2018
+* Reviewer for AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018
