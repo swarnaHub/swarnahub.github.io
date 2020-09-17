@@ -31,15 +31,15 @@ arXiv:1902.09183
 
 * **ConjNLI: Natural Language Inference over Conjunctive Sentences**  
 **Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
-Conference on Empirical Methods on Natural Language Processing (**EMNLP**), 2020
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules**  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
-Conference on Empirical Methods on Natural Language Processing (**EMNLP**), 2020
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
 Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
-Conference on Empirical Methods on Natural Language Processing (**EMNLP-IJCNLP**), 2019
+Conference on Empirical Methods in Natural Language Processing (**EMNLP-IJCNLP**), 2019
 [[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)]  
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
