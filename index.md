@@ -29,13 +29,14 @@ arXiv:1902.09183
 
 ### Archival Conference Papers
 
-* **ConjNLI: Natural Language Inference over Conjunctive Sentences**  
+* **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 24%]   
 **Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 
-* **PRover: Proof Generation for Interpretable Reasoning over Rules**  
+* **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 24%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+[[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)]
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
 Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
