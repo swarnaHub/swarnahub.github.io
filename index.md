@@ -1,6 +1,6 @@
-I am a first year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). My research is generously supported by the institute graduate fellowship and a prestigious Munroe and Rebecca Cobey fellowship. I develop human-interpretable (graph-based, natural language explanation-based) models for downstream NLP tasks of Question Answering, Commonsense Reasoning, and Linguistic Formal Reasoning. Broadly, I am interested in explainable Natural Language Processing and primarily use Deep Learning and Reinforcement Learning to tackle such problems.
+I am a second year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). My research is generously supported by the institute graduate fellowship and a prestigious Munroe and Rebecca Cobey fellowship. I develop human-interpretable models that can generate structured explanations for downstream NLP tasks of Question Answering, Commonsense Reasoning, and Linguistic Formal Reasoning (EMNLP 2020). Broadly, I am interested in explainable Natural Language Processing and primarily use Deep Learning and Reinforcement Learning to tackle such problems.
 
-Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018) and Educational content understanding (IJCAI 2019). Before joining IBM Research, I was an M.Tech. student and a Teaching Assistant in the CS department at IIT, Delhi. For my master's thesis, I worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. 
+Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems for Automatic Short Answer Grading (arXiv 2019, CIKM 2018, AIED 2018) and Educational content understanding (IJCAI 2019). Before that, I was an M.Tech. student and a Teaching Assistant in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the widely used Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I completed my B.E. in CS from Jadavpur University, India in 2014 and also spent a year working as a Software Developer in the Acrobat Reader team of Adobe Systems, India. 
 
 ## Recent News
 
@@ -72,6 +72,11 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2017
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
+
+## Industry Experience
+
+* Research Engineer, IBM Research (2017-2019)
+* Member of Technical Staff, Adobe Systems (2014-2015)
 
 ## Teaching
 
