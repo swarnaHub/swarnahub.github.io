@@ -32,6 +32,7 @@ arXiv:1902.09183
 * **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 24%]   
 **Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+[[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 24%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
