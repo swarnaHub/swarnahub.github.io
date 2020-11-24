@@ -4,12 +4,12 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ## Recent News
 
+* **November 2020**: One first-author long paper in submission at NAACL 2021, Mexico City, Mexico.  
 * **September 2020**: Two first-author long research papers accepted at EMNLP 2020, Online.
 * **August 2019**: Short research paper accepted at EMNLP-IJCNLP 2019, Hong Kong, China.
 * **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
 * **May 2019**: Full research paper accepted at IJCAI 2019, Macau, China.
-* **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill.  
-* **February 2019**: New paper on "Joint Multi-Domain Learning for Automatic Short Answer Grading" is up on arxiv.  
+* **February 2019**: PhD admits in the NLP/ML groups at Johns Hopkins, Purdue and University of North Carolina, Chapel Hill. 
 * **December 2018**: Lab-wide Research appreciation award at IBM Research for work on Intelligent Tutors.
 
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
