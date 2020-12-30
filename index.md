@@ -14,27 +14,14 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-### Pre-prints and Workshops
-
-
-* **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
-Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, **Swarnadeep Saha**, and Malolan Chetlur  
-14th Workshop on Innovative Use of NLP for Building Educational Applications (**BEA**, co-located with **ACL**), 2019
-[[paper](https://swarnahub.github.io/papers/BEA19.pdf)]  
-
-* **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
-**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
-arXiv:1902.09183
-[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
-
 ### Archival Conference Papers
 
-* **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 24%]   
+* **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 22%]   
 **Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 [[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
 
-* **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 24%]  
+* **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 [[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)]
@@ -73,6 +60,19 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 55th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2017
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
+
+### Pre-prints and Workshops
+
+
+* **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
+Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, **Swarnadeep Saha**, and Malolan Chetlur  
+14th Workshop on Innovative Use of NLP for Building Educational Applications (**BEA**, co-located with **ACL**), 2019
+[[paper](https://swarnahub.github.io/papers/BEA19.pdf)]  
+
+* **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
+**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
+arXiv:1902.09183
+[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
 ## Industry Experience
 
