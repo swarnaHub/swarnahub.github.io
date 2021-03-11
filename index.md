@@ -1,12 +1,12 @@
-I am a second year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). Broadly, my research focuses on developing explainable and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830)), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning. In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
+I am a second year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). Broadly, my research focuses on developing explainable and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021]()), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning. In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
 
 Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
 
 ## Recent News
 
+* **November 2020**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.  
 * **January 2020**: Joining [Salesforce Research](https://einstein.ai/) as a Research Intern for Summer 2021 to work with [Nazneen Rajani](http://www.nazneenrajani.com/).  
-* **January 2020**: Research Internship offers from [Salesforce Research](https://einstein.ai/) and [Facebook AI Research](https://ai.facebook.com/).  
-* **November 2020**: One first-author long paper in submission at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.  
+* **January 2020**: Research Internship offers from [Salesforce Research](https://einstein.ai/) and [Facebook AI Research](https://ai.facebook.com/).    
 * **September 2020**: Two first-author long research papers accepted at [EMNLP 2020](https://2020.emnlp.org/), Online.
 * **August 2019**: Short research paper accepted at [EMNLP-IJCNLP 2019](http://emnlp-ijcnlp2019.org/), Hong Kong, China.
 * **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
@@ -16,15 +16,20 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ### Archival Conference Papers
 
-* **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 22%]   
-**Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
-[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020
-[[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
+* **mPRover: Generating Proof Sets for Interpretable Rule Reasoning** [Acceptance Rate: %]   
+**Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
+[Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021
+[[paper]()] [[code]()]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
 [Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020
 [[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)]
+
+* **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 22%]   
+**Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
+[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020
+[[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
 Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
