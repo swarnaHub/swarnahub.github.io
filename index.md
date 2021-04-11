@@ -16,10 +16,10 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ### Archival Conference Papers
 
-* **mPRover: Generating Proof Sets for Interpretable Rule Reasoning** [Acceptance Rate: %]   
+* **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: %]   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021
-[[paper]()] [[code]()]
+[[paper]()] [[code](https://github.com/swarnaHub/multiPRover)]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
@@ -101,4 +101,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
