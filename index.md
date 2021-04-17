@@ -1,18 +1,24 @@
-I am a second year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). Broadly, my research focuses on developing explainable and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021]()), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning. In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
+I am a second year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). I also work closely with [Prof. Shashank Srivastava](https://www.ssriva.com/) and other members of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/). Broadly, my research focuses on developing explainable (with a particular interest in structured/graphical explanations) and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021]()), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning ([arxiv 2021](https://arxiv.org/abs/2104.07644)). In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
 
 Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
 
 ## Recent News
 
-* **November 2020**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.  
+* **April 2021**: New [pre-print](https://arxiv.org/abs/2104.07644) released on Commonsense Explanation Graphs.  
+* **March 2021**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.  
 * **January 2020**: Joining [Salesforce Research](https://einstein.ai/) as a Research Intern for Summer 2021 to work with [Nazneen Rajani](http://www.nazneenrajani.com/).  
 * **January 2020**: Research Internship offers from [Salesforce Research](https://einstein.ai/) and [Facebook AI Research](https://ai.facebook.com/).    
 * **September 2020**: Two first-author long research papers accepted at [EMNLP 2020](https://2020.emnlp.org/), Online.
 * **August 2019**: Short research paper accepted at [EMNLP-IJCNLP 2019](http://emnlp-ijcnlp2019.org/), Hong Kong, China.
-* **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.
-* **May 2019**: Full research paper accepted at [IJCAI 2019](https://www.ijcai19.org/), Macau, China.
+* **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.  
 
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
+
+### Pre-prints
+
+* **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**   
+**Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
+[[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)]
 
 ### Archival Conference Papers
 
@@ -66,7 +72,7 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 [55th Annual Meeting of the Association for Computational Linguistics](http://acl2017.org/) (**ACL**), 2017
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
 
-### Pre-prints and Workshops
+### Workshops/Other Papers
 
 
 * **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
