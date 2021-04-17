@@ -18,6 +18,7 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 * **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**   
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
+arXiv:2104.07644
 [[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)]
 
 ### Archival Conference Papers
