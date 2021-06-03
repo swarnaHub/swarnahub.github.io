@@ -26,7 +26,7 @@ arXiv:2104.07644
 * **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: %]   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021
-[[paper]()] [[code](https://github.com/swarnaHub/multiPRover)]
+[[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
