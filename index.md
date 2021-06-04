@@ -12,6 +12,12 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 * **August 2019**: Short research paper accepted at [EMNLP-IJCNLP 2019](http://emnlp-ijcnlp2019.org/), Hong Kong, China.
 * **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) this fall for PhD in CS.  
 
+## Industry Experience
+
+* Research Intern (with [Nazneen Rajani](http://www.nazneenrajani.com/)), [Salesforce Research](https://www.salesforce.com/research/) (Summer 2021)
+* Research Engineer, [IBM Research](https://www.research.ibm.com/labs/india/) (2017-2019)
+* Member of Technical Staff, [Adobe Systems](https://www.adobe.com/in/) (2014-2015)
+
 ## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
 ### Pre-prints
@@ -86,11 +92,6 @@ Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendo
 arXiv:1902.09183
 [[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
 
-## Industry Experience
-
-* Research Engineer, [IBM Research](https://www.research.ibm.com/labs/india/) (2017-2019)
-* Member of Technical Staff, [Adobe Systems](https://www.adobe.com/in/) (2014-2015)
-
 ## Teaching
 
 * [COL 774: Machine Learning - Spring 2016](http://www.cse.iitd.ac.in/~parags/teaching/2017/sp17/col774/)  
@@ -108,4 +109,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
