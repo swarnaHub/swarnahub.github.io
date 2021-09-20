@@ -109,4 +109,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
