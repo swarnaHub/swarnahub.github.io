@@ -26,58 +26,58 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 * **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**   
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
-[Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021
-[[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)]
+[Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021     
+[Long] [Oral] [[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)]
 
 * **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: %]   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
-[Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021
-[[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
+[Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021     
+[Long] [Oral+Poster] [[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
-[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020
-[[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)]
+[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020  
+[Long] [Oral] [[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)]
 
 * **ConjNLI: Natural Language Inference over Conjunctive Sentences** [Acceptance Rate: 22%]   
 **Swarnadeep Saha**, Yixin Nie, and Mohit Bansal  
-[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020
-[[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
+[Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020  
+[Long] [Poster] [[paper](https://arxiv.org/abs/2010.10418)] [[data/code](https://github.com/swarnaHub/ConjNLI)]
 
 * **Pre-Training BERT on Domain Resources for Short Answer Grading** [Acceptance Rate: 23%]  
 Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Rishi Arora  
-[Conference on Empirical Methods in Natural Language Processing](http://emnlp-ijcnlp2019.org/) (**EMNLP-IJCNLP**), 2019
-[[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)]  
+[Conference on Empirical Methods in Natural Language Processing](http://emnlp-ijcnlp2019.org/) (**EMNLP-IJCNLP**), 2019  
+[Short] [Poster] [[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)]  
 
 * **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach** [Acceptance Rate: 17%]  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas Indulal Dhamecha, W M Gayathri K Wijayarathna, Red Mendoza, Paul Gagnon, Nabil Zary, and Shantanu Godbole  
-[28th International Joint Conference on Artificial Intelligence](https://www.ijcai19.org/) (**IJCAI**), 2019
-[[paper](https://swarnahub.github.io/papers/IJCAI19.pdf)]  
+[28th International Joint Conference on Artificial Intelligence](https://www.ijcai19.org/) (**IJCAI**), 2019  
+[Long] [Oral+Poster] [[paper](https://swarnahub.github.io/papers/IJCAI19.pdf)]  
 
 * **Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading**  [Acceptance Rate: 17%]  
 Smit Marvaniya, **Swarnadeep Saha**, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
-[27th ACM International Conference on Information and Knowledge Management](https://www.cikm2018.units.it/) (**CIKM**), 2018
-[[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
+[27th ACM International Conference on Information and Knowledge Management](https://www.cikm2018.units.it/) (**CIKM**), 2018  
+[Long] [Oral] [[paper](https://swarnahub.github.io/papers/CIKM18.pdf)]
 
 * **Open Information Extraction from Conjunctive Sentences** [Acceptance Rate: 37%]  
 **Swarnadeep Saha**, and Mausam  
-[27th International Conference on Computational Linguistics](https://coling2018.org/) (**COLING**), 2018
-[[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[slides](https://swarnahub.github.io/papers/COLING18Slides.pptx)]
+[27th International Conference on Computational Linguistics](https://coling2018.org/) (**COLING**), 2018  
+[Long] [Oral] [[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[slides](https://swarnahub.github.io/papers/COLING18Slides.pptx)]
 
 * **Sentence Level or Token Level Features for Automatic Short Answer Grading?: Use Both** [Acceptance Rate: 25%]  
 **Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Renuka Sindhgatta, and Bikram Sengupta  
-[19th International Conference of AI in Education](https://aied2018.utscic.edu.au/) (**AIED**), 2018
-[[paper](https://swarnahub.github.io/papers/AIED18a.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18aSlides.pptx)]
+[19th International Conference of AI in Education](https://aied2018.utscic.edu.au/) (**AIED**), 2018   
+[Long] [Oral] [[paper](https://swarnahub.github.io/papers/AIED18a.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18aSlides.pptx)]
 
 * **Balancing Human Efforts and Performance of Student Response Analyzer in Dialog-based Tutors** [Acceptance Rate: 25%]  
 Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and Bikram Sengupta  
-[19th International Conference of AI in Education](https://aied2018.utscic.edu.au/) (**AIED**), 2018
-[[paper](https://swarnahub.github.io/papers/AIED18b.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18bSlides.pptx)]
+[19th International Conference of AI in Education](https://aied2018.utscic.edu.au/) (**AIED**), 2018  
+[Long] [Oral] [[paper](https://swarnahub.github.io/papers/AIED18b.pdf)] [[slides](https://swarnahub.github.io/papers/AIED18bSlides.pptx)]
 
 * **Bootstrapping for Numerical Open IE** [Acceptance Rate: 18%]  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
-[55th Annual Meeting of the Association for Computational Linguistics](http://acl2017.org/) (**ACL**), 2017
-[[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
+[55th Annual Meeting of the Association for Computational Linguistics](http://acl2017.org/) (**ACL**), 2017  
+[Short] [Poster] [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
 
 ### Workshops/Other Papers
 
