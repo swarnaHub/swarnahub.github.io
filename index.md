@@ -29,7 +29,7 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 [Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021     
 [Long] [Oral] [[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)]
 
-* **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: %]   
+* **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: 26%]   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021     
 [Long] [Oral+Poster] [[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
