@@ -1,10 +1,11 @@
-I am a third year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Broadly, my research focuses on developing explainable (with a particular interest in structured/graphical explanations) and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644)). In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
+I am a third year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Broadly, my research focuses on developing explainable (with a particular interest in structured/graphical explanations) and robust NLP models for the tasks of Question Answering ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Natural Language Inference ([EMNLP 2020](https://arxiv.org/abs/2010.10418)) and Commonsense Reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022]()). In the past, I have also spent some time understanding the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)).
 
 Previously, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
 
 ## Recent News
 
-
+* **February 2022**: New paper on Contrastive Learning for Graph Generation is accepted at [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
+* **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
 * **August 2021**: [ExplaGraphs](https://arxiv.org/abs/2104.07644) is accepted at [EMNLP 2021](https://2021.emnlp.org/), Punta Cana, Dominican Republic.  
 * **June 2021**: Started Internship at [Salesforce Research](https://einstein.ai/).
 * **April 2021**: New [pre-print](https://arxiv.org/abs/2104.07644) released on Commonsense Explanation Graphs.  
@@ -12,7 +13,6 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 * **January 2021**: Joining [Salesforce Research](https://einstein.ai/) as a Research Intern for Summer 2021 to work with [Nazneen Rajani](http://www.nazneenrajani.com/).  
 * **January 2021**: Research Internship offers from [Salesforce Research](https://einstein.ai/) and [Facebook AI Research](https://ai.facebook.com/).    
 * **September 2020**: Two first-author long research papers accepted at [EMNLP 2020](https://2020.emnlp.org/), Online.
-* **August 2019** : Joined the [UNC NLP lab](https://nlp.cs.unc.edu/) for PhD in CS.  
 
 ## Industry Experience
 
@@ -24,6 +24,11 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ### Archival Conference Papers
 
+* **Graph Generation via Pre-trained Language Models: An Empirical Study of Syntax and Semantics**   
+**Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
+[Annual Meeting of the Association for Computational Linguistics](https://www.2022.aclweb.org/) (**ACL**), 2022     
+[Long] [[paper]()] [[code]()]    
+
 * **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**   
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
 [Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021     
@@ -32,7 +37,7 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 * **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** [Acceptance Rate: 26%]   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021     
-[Long] [Oral+Poster] [[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
+[Long] [Oral] [[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)]
 
 * **PRover: Proof Generation for Interpretable Reasoning over Rules** [Acceptance Rate: 22%]  
 **Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
@@ -109,4 +114,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for ARR 2022, ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
