@@ -24,12 +24,12 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ### Archival Conference Papers
 
-* **Graph Generation via Pre-trained Language Models: An Empirical Study of Syntax and Semantics**   
+* **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning**   
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Annual Meeting of the Association for Computational Linguistics](https://www.2022.aclweb.org/) (**ACL**), 2022     
 [Long] [[paper]()] [[code]()]    
 
-* **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**   
+* **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning** [Acceptance Rate: 23%]      
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
 [Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021     
 [Long] [Oral] [[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)] [[website](https://explagraphs.github.io/)]
