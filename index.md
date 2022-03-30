@@ -4,7 +4,7 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ## Recent News
 
-* **February 2022**: New paper on Contrastive Learning for Graph Generation is accepted at [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
+* **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted at [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
 * **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
 * **August 2021**: [ExplaGraphs](https://arxiv.org/abs/2104.07644) is accepted at [EMNLP 2021](https://2021.emnlp.org/), Punta Cana, Dominican Republic.  
 * **June 2021**: Started Internship at [Salesforce Research](https://einstein.ai/).
