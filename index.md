@@ -16,6 +16,7 @@ Previously, I spent two wonderful years at [IBM Research - India](https://www.re
 
 ## Industry Experience
 
+* Research Intern (with [Asli Celikyilmaz](http://asli.us/)), [Meta AI Research](https://ai.facebook.com/) (Summer 2022)
 * Research Intern (with [Nazneen Rajani](http://www.nazneenrajani.com/)), [Salesforce Research](https://www.salesforce.com/research/) (Summer 2021)
 * Research Engineer, [IBM Research](https://www.research.ibm.com/labs/india/) (2017-2019)
 * Member of Technical Staff, [Adobe Systems](https://www.adobe.com/in/) (2014-2015)
