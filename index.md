@@ -1,18 +1,20 @@
-I am a fourth year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My broad research interests are in interpretable machine learning and natural language processing. I am generally interested in any kind of reasoning problem in NLP that requires systematic multi-step deductive capabilities to be solved. In the past, I have developed interpretable models that can generate natural language proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)) and explanation graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)). Recently, I have started to explore the possibilities of systematic reasoning in open-ended text generation. Once upon a time, I did some work trying to understand the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)). During my PhD, I have spent two wonderful summers interning at [Salesforce AI Research](https://www.salesforceairesearch.com/) and [FAIR Labs, Meta AI Research](https://ai.facebook.com/).
+I am a fourth year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) and a Rebecca and Munroe Cobey Fellowship.
 
-Before starting my PhD, I spent two wonderful years at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
+My broad research interests are in interpretable machine learning and natural language processing. I am generally interested in any kind of reasoning problem in NLP that requires systematic multi-step deductive capabilities to be solved. In the past, I have developed interpretable models that can generate Natural Language Proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Explanation Graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)) and Summarization Programs for abstractive summarization ([arxiv 2022](https://arxiv.org/abs/2209.10492)). I have also worked on connecting explainability to data hardness. Once upon a time, I wrote a couple of papers on the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)). During my PhD, I have spent two wonderful summers interning at [Salesforce AI Research](https://www.salesforceairesearch.com/) and [FAIR Labs, Meta AI Research](https://ai.facebook.com/).
+
+Before starting my PhD, I was a Research Engineer at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
 
 ## Recent News
 
+* **September 2022**: New paper on Interpretable Abstractive Summarization via generating and executing reasoning programs on [arxiv](https://arxiv.org/abs/2209.10492).  
+* **August 2022**: I am one of six [Google PhD fellows](https://research.google/outreach/phd-fellowship/recipients/) in NLP worldwide. Thanks, Google, for the prestiguous award. 
+* **May 2022**: Started an internship at  [Meta AI Research](https://ai.facebook.com/) in Seattle with [Asli Celikyilmaz](http://asli.us/).    
 * **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted at [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
 * **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
 * **August 2021**: [ExplaGraphs](https://arxiv.org/abs/2104.07644) is accepted at [EMNLP 2021](https://2021.emnlp.org/), Punta Cana, Dominican Republic.  
 * **June 2021**: Started Internship at [Salesforce Research](https://www.salesforceairesearch.com/).
 * **April 2021**: New [pre-print](https://arxiv.org/abs/2104.07644) released on Commonsense Explanation Graphs.  
-* **March 2021**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.  
-* **January 2021**: Joining [Salesforce Research](https://einstein.ai/) as a Research Intern for Summer 2021 to work with [Nazneen Rajani](http://www.nazneenrajani.com/).  
-* **January 2021**: Research Internship offers from [Salesforce Research](https://einstein.ai/) and [Facebook AI Research](https://ai.facebook.com/).    
-* **September 2020**: Two first-author long research papers accepted at [EMNLP 2020](https://2020.emnlp.org/), Online.
+* **March 2021**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.    
 
 ## Industry Experience
 
@@ -21,14 +23,17 @@ Before starting my PhD, I spent two wonderful years at [IBM Research - India](ht
 * Research Engineer, [IBM Research](https://www.research.ibm.com/labs/india/) (2017-2019)
 * Member of Technical Staff, [Adobe Systems](https://www.adobe.com/in/) (2014-2015)
 
-## Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
+## Selected Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-### Archival Conference Papers
+* **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
+**Swarnadeep Saha**, Shiyue Zhang, Peter Hase, and Mohit Bansal   
+arxiv, 2022     
+[Long] [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] 
 
-* **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning**   
+* **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [Accept Rate: 21%]     
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Annual Meeting of the Association for Computational Linguistics](https://www.2022.aclweb.org/) (**ACL**), 2022     
-[Long] [[paper](https://arxiv.org/abs/2204.04813)] [[code](https://github.com/swarnaHub/ExplagraphGen)]    
+[Long] [Poster] [[paper](https://arxiv.org/abs/2204.04813)] [[code](https://github.com/swarnaHub/ExplagraphGen)]    
 
 * **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning** [Acceptance Rate: 23%]      
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
@@ -83,20 +88,7 @@ Tejas I. Dhamecha, Smit Marvaniya, **Swarnadeep Saha**, Renuka Sindhgatta, and B
 * **Bootstrapping for Numerical Open IE** [Acceptance Rate: 18%]  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 [55th Annual Meeting of the Association for Computational Linguistics](http://acl2017.org/) (**ACL**), 2017  
-[Short] [Poster] [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)]
-
-### Workshops/Other Papers
-
-
-* **Learning Outcomes and Their Relatedness in a Medical Curriculum**  
-Sneha Mondal, Tejas Indulal Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, **Swarnadeep Saha**, and Malolan Chetlur  
-[14th Workshop on Innovative Use of NLP for Building Educational Applications](https://sig-edu.org/bea/2019) (**BEA**, co-located with **ACL**), 2019
-[[paper](https://swarnahub.github.io/papers/BEA19.pdf)]  
-
-* **Joint Multi-Domain Learning for Automatic Short Answer Grading**  
-**Swarnadeep Saha**, Tejas I. Dhamecha, Smit Marvaniya, Peter Foltz, Renuka Sindhgatta, and Bikram Sengupta  
-arXiv:1902.09183
-[[paper](https://swarnahub.github.io/papers/arxiv19.pdf)]  
+[Short] [Poster] [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [[poster](https://swarnahub.github.io/papers/ACL17Poster.pdf)] 
 
 ## Teaching
 
@@ -108,6 +100,7 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Awards
 
+* Google PhD Fellowship in Natural Language Processing (2022).
 * Munroe and Rebecca Cobey fellowship award at UNC (2019). 
 * Research appreciation award by director of IBM Research India for contributions to Watson Tutor (2018).
 * Manager's choice award at IBM Research - India for research contributions (2018).
@@ -115,4 +108,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for ARR 2022, ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for EMNLP 2022, ARR 2022, ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
