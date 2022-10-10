@@ -1,20 +1,20 @@
 I am a fourth year CS PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) and a Rebecca and Munroe Cobey Fellowship.
 
-My broad research interests are in interpretable machine learning and natural language processing. I am generally interested in any kind of reasoning problem in NLP that requires systematic multi-step deductive capabilities to be solved. In the past, I have developed interpretable models that can generate Natural Language Proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Explanation Graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)) and Summarization Programs for abstractive summarization ([arxiv 2022](https://arxiv.org/abs/2209.10492)). I have also worked on connecting explainability to data hardness. Once upon a time, I wrote a couple of papers on the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)). During my PhD, I have spent two wonderful summers interning at [Salesforce AI Research](https://www.salesforceairesearch.com/) and [FAIR Labs, Meta AI Research](https://ai.facebook.com/).
+My broad research interests are in interpretable machine learning and natural language processing. I am generally interested in multi-step reasoning problems in NLP, often referred to as the [System 2 Reasoning](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=Thinking%2C%20Fast%20and%20Slow%20is,book%20by%20psychologist%20Daniel%20Kahneman.&text=The%20book's%20main%20thesis%20is,more%20deliberative%2C%20and%20more%20logical.). In the past, I have developed interpretable models that can generate Natural Language Proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Explanation Graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)) and Summarization Programs for abstractive summarization ([arxiv 2022](https://arxiv.org/abs/2209.10492)). I have also worked on connecting explainability to data hardness ([EMNLP 2022]()). Once upon a time, I wrote a couple of papers on the nuances of conjunctions in English ([EMNLP 2020](https://arxiv.org/abs/2010.10418), [COLING 2018](https://swarnahub.github.io/papers/COLING18.pdf)). During my PhD, I have spent two wonderful summers interning at [Salesforce AI Research](https://www.salesforceairesearch.com/) and [FAIR Labs, Meta AI Research](https://ai.facebook.com/).
 
-Before starting my PhD, I was a Research Engineer at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
+Before starting my PhD, I was a Research Engineer at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems (IJCAI 2019, CIKM 2018, AIED 2018). Even before that, I was an M.Tech. student in the CS department at IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018). I also spent a year working as a Software Developer in the Acrobat Reader team at Adobe, India after completing by bachelors from Jadavpur University, India.
 
 ## Recent News
 
+* **October 2022**: New paper on connecting Data Hardness to Explainability is accepted to [EMNLP 2022](https://2022.emnlp.org/).  
 * **September 2022**: New paper on Interpretable Abstractive Summarization via generating and executing reasoning programs on [arxiv](https://arxiv.org/abs/2209.10492).  
 * **August 2022**: I am one of six [Google PhD fellows](https://research.google/outreach/phd-fellowship/recipients/) in NLP worldwide. Thanks, Google, for the prestiguous award. 
 * **May 2022**: Started an internship at  [Meta AI Research](https://ai.facebook.com/) in Seattle with [Asli Celikyilmaz](http://asli.us/).    
-* **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted at [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
+* **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted to [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
 * **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
 * **August 2021**: [ExplaGraphs](https://arxiv.org/abs/2104.07644) is accepted at [EMNLP 2021](https://2021.emnlp.org/), Punta Cana, Dominican Republic.  
 * **June 2021**: Started Internship at [Salesforce Research](https://www.salesforceairesearch.com/).
 * **April 2021**: New [pre-print](https://arxiv.org/abs/2104.07644) released on Commonsense Explanation Graphs.  
-* **March 2021**: One first-author long paper accepted at [NAACL 2021](https://2021.naacl.org/), Mexico City, Mexico.    
 
 ## Industry Experience
 
@@ -29,6 +29,11 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 **Swarnadeep Saha**, Shiyue Zhang, Peter Hase, and Mohit Bansal   
 arxiv, 2022     
 [Long] [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] 
+
+* **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
+**Swarnadeep Saha**, Peter Hase, Nazneen Rajani, and Mohit Bansal   
+[Conference on Empirical Methods in Natural Language Processing](https://2022.emnlp.org/) (**EMNLP**), 2022      
+[Short] [[paper]()] [[code]()] 
 
 * **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [Accept Rate: 21%]     
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
