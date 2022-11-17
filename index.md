@@ -6,9 +6,9 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 
 ## Recent News
 
-* **October 2022**: New paper on connecting Data Hardness to Explainability is accepted to [EMNLP 2022](https://2022.emnlp.org/).  
+* **October 2022**: New [paper](https://arxiv.org/abs/2211.07517) on connecting Data Hardness to Explainability is accepted to [EMNLP 2022](https://2022.emnlp.org/).  
 * **September 2022**: New paper on Interpretable Abstractive Summarization via generating and executing reasoning programs on [arxiv](https://arxiv.org/abs/2209.10492).  
-* **August 2022**: I am one of six [Google PhD fellows](https://research.google/outreach/phd-fellowship/recipients/) in NLP worldwide. Thanks, Google, for the prestiguous award. 
+* **August 2022**: I am one of eight [Google PhD fellows](https://research.google/outreach/phd-fellowship/recipients/) in NLP worldwide. Thanks, Google, for the prestiguous award. 
 * **May 2022**: Started an internship at  [Meta AI Research](https://ai.facebook.com/) in Seattle with [Asli Celikyilmaz](http://asli.us/).    
 * **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted to [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
 * **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
@@ -33,7 +33,7 @@ arxiv, 2022
 * **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
 **Swarnadeep Saha**, Peter Hase, Nazneen Rajani, and Mohit Bansal   
 [Conference on Empirical Methods in Natural Language Processing](https://2022.emnlp.org/) (**EMNLP**), 2022      
-[Short] [[paper]()] [[code]()] 
+[Short] [Oral] [[paper](https://arxiv.org/abs/2211.07517)] [[data](https://github.com/swarnaHub/ExplanationHardness)] 
 
 * **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [Accept Rate: 21%]     
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
