@@ -6,14 +6,13 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 
 ## Recent News
 
+* **January 2023**: [Summarization Programs](https://arxiv.org/abs/2209.10492) is accepted to [ICLR 2023](https://iclr.cc/).  
 * **December 2022**: New pre-print on Multi-step Reasoning for Text Generation from Semi-structured Data on [arXiv](https://arxiv.org/abs/2212.08607).  
 * **October 2022**: New [paper](https://arxiv.org/abs/2211.07517) on connecting Data Hardness to Explainability is accepted to [EMNLP 2022](https://2022.emnlp.org/).  
 * **September 2022**: New pre-print on Interpretable Abstractive Summarization via generating and executing modular programs on [arXiv](https://arxiv.org/abs/2209.10492).  
 * **August 2022**: I am one of eight [Google PhD fellows](https://research.google/outreach/phd-fellowship/recipients/) in NLP worldwide. Thanks, Google, for the prestiguous award. 
 * **May 2022**: Started an internship at  [Meta AI Research](https://ai.facebook.com/) in Seattle with [Asli Celikyilmaz](http://asli.us/).    
 * **February 2022**: New paper on Contrastive Learning for Explanation Graph Generation is accepted to [ACL 2022](https://www.2022.aclweb.org/), Dublin, Ireland.  
-* **December 2021**: Joining [Meta AI Research](https://ai.facebook.com/) in Seattle as a Research Intern for Summer 2022. 
-* **August 2021**: [ExplaGraphs](https://arxiv.org/abs/2104.07644) is accepted at [EMNLP 2021](https://2021.emnlp.org/), Punta Cana, Dominican Republic.  
 
 ## Industry Experience
 
@@ -31,7 +30,7 @@ Pre-print on arXiv, 2022
 
 * **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 **Swarnadeep Saha**, Shiyue Zhang, Peter Hase, and Mohit Bansal   
-Pre-print on arXiv, 2022     
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**) 2023     
 [Long] [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] 
 
 * **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
