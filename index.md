@@ -6,13 +6,13 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 
 ## Recent News
 
+* **September 2023**: New pre-print out! [Diverse LLMs improve reasoning via multi-round discussion and convincing each other](https://arxiv.org/abs/2309.13007).
+* **September 2023**: [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) is accepted to NeurIPS 2023.
 * **June 2023**: New pre-print on [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) out on arXiv.
 * **May 2023**: Started Internship at FAIR Labs, hosted by [Xian Li](https://ai.facebook.com/people/xian-li/) and [Omer Levy](http://www.cs.tau.ac.il/~levyomer/).  
 * **May 2023**: [MURMUR](https://arxiv.org/abs/2212.08607) is accepted to [ACL Findings](https://2023.aclweb.org/).  
 * **April 2023**: New pre-print on Evaluating Reasoning Chains on [arXiv](https://arxiv.org/abs/2304.10703).   
 * **January 2023**: [Summarization Programs](https://arxiv.org/abs/2209.10492) is accepted to [ICLR 2023](https://iclr.cc/).  
-* **December 2022**: New pre-print on Multi-step Reasoning for Text Generation from Semi-structured Data on [arXiv](https://arxiv.org/abs/2212.08607).  
-* **October 2022**: New [paper](https://arxiv.org/abs/2211.07517) on connecting Data Hardness to Explainability is accepted to [EMNLP 2022](https://2022.emnlp.org/).  
 
 ## Industry Experience
 
@@ -24,25 +24,30 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 
 ## Selected Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
 
-* **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
-**Swarnadeep Saha**, Peter Hase, and Mohit Bansal   
+* **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
+Justin Chih-Yao Chen, **Swarnadeep Saha**, and Mohit Bansal   
 Pre-print on arXiv, 2023      
-[Long] [[paper](https://arxiv.org/abs/2306.09299)] [[code](https://github.com/swarnaHub/ExplanationIntervention)] 
+[Long] [[paper](https://arxiv.org/abs/2309.13007)] [[code](https://github.com/dinobby/ReConcile)]
 
 * **ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**  
 Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal  
 Pre-print on arXiv, 2023  
 [Long] [[paper](https://arxiv.org/abs/2304.10703)] [[code](https://github.com/archiki/ReCEval)] 
 
+* **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
+**Swarnadeep Saha**, Peter Hase, and Mohit Bansal   
+[Neural Information Processing Systems](https://nips.cc/) (**NeurIPS**), 2023      
+[Long] [Poster] [[paper](https://arxiv.org/abs/2306.09299)] [[code](https://github.com/swarnaHub/ExplanationIntervention)] 
+
 * **MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation**  
 **Swarnadeep Saha**, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, and Asli Celikyilmaz  
 [Annual Meeting of the Association for Computational Linguistics](https://www.2023.aclweb.org/) (**Findings of ACL**), 2023    
-[Long] [[paper](https://arxiv.org/abs/2212.08607)] [[code]()] 
+[Long] [Poster] [[paper](https://arxiv.org/abs/2212.08607)] [[code]()] 
 
 * **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 **Swarnadeep Saha**, Shiyue Zhang, Peter Hase, and Mohit Bansal   
 [International Conference on Learning Representations](https://iclr.cc/) (**ICLR**) 2023     
-[Long] [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] 
+[Long] [Poster] [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] 
 
 * **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
 **Swarnadeep Saha**, Peter Hase, Nazneen Rajani, and Mohit Bansal   
