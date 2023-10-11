@@ -6,12 +6,12 @@ Before starting my PhD, I was a Research Engineer at [IBM Research - India](http
 
 ## Recent News
 
+* **October 2023**: [ReCEval](https://arxiv.org/abs/2304.10703) on evaluating CoT rationales is accepted to EMNLP 2023.   
 * **September 2023**: New pre-print out! [Diverse LLMs improve reasoning via multi-round discussion and convincing each other](https://arxiv.org/abs/2309.13007).
 * **September 2023**: [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) is accepted to NeurIPS 2023.
 * **June 2023**: New pre-print on [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) out on arXiv.
 * **May 2023**: Started Internship at FAIR Labs, hosted by [Xian Li](https://ai.facebook.com/people/xian-li/) and [Omer Levy](http://www.cs.tau.ac.il/~levyomer/).  
 * **May 2023**: [MURMUR](https://arxiv.org/abs/2212.08607) is accepted to [ACL Findings](https://2023.aclweb.org/).  
-* **April 2023**: New pre-print on Evaluating Reasoning Chains on [arXiv](https://arxiv.org/abs/2304.10703).   
 * **January 2023**: [Summarization Programs](https://arxiv.org/abs/2209.10492) is accepted to [ICLR 2023](https://iclr.cc/).  
 
 ## Industry Experience
@@ -31,7 +31,7 @@ Pre-print on arXiv, 2023
 
 * **ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**  
 Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal  
-Pre-print on arXiv, 2023  
+[Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org/) (**EMNLP**), 2023      
 [Long] [[paper](https://arxiv.org/abs/2304.10703)] [[code](https://github.com/archiki/ReCEval)] 
 
 * **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
