@@ -1,28 +1,33 @@
 I am a fifth year Computer Science PhD in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) and a Rebecca and Munroe Cobey Fellowship.
 
-I study Machine Learning and NLP. I am generally interested in developing interpretable ML methods that enable language agents to solve complex, multi-step reasoning problems, often referred to as the [System 2 Reasoning](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=Thinking%2C%20Fast%20and%20Slow%20is,book%20by%20psychologist%20Daniel%20Kahneman.&text=The%20book's%20main%20thesis%20is,more%20deliberative%2C%20and%20more%20logical.). In the past, I have developed models that can generate Natural Language Proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Explanation Graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)), and Summarization Programs for abstractive summarization ([ICLR 2023](https://arxiv.org/abs/2209.10492), [ACL 2023](https://arxiv.org/abs/2212.08607)). My current research focus is understanding how LLMs reason and the role of explanations in multi-agent environments ([NeurIPS 2023](https://arxiv.org/abs/2306.09299), [arXiv 2023](https://arxiv.org/abs/2309.13007)]. Once I wrote a paper connecting explainability to data hardness ([EMNLP 2022](https://arxiv.org/abs/2211.07517)). During my PhD, I have spent three wonderful summers, twice interning at [FAIR Labs, Meta AI](https://ai.facebook.com/) and once at [Salesforce AI Research](https://www.salesforceairesearch.com/).
+I study Machine Learning and NLP. I am generally interested in developing interpretable ML methods that enable language agents to solve complex, multi-step reasoning problems, often referred to as the [System 2 Reasoning](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=Thinking%2C%20Fast%20and%20Slow%20is,book%20by%20psychologist%20Daniel%20Kahneman.&text=The%20book's%20main%20thesis%20is,more%20deliberative%2C%20and%20more%20logical.). In the past, I have developed models that can generate Natural Language Proofs for formal reasoning ([EMNLP 2020](https://arxiv.org/abs/2010.02830), [NAACL 2021](https://arxiv.org/abs/2106.01354)), Explanation Graphs for structured commonsense reasoning ([EMNLP 2021](https://arxiv.org/abs/2104.07644), [ACL 2022](https://arxiv.org/abs/2204.04813)), and Summarization Programs for abstractive summarization ([ICLR 2023](https://arxiv.org/abs/2209.10492), [ACL 2023](https://arxiv.org/abs/2212.08607)). My current research focus is understanding how LLMs reason and the role of explanations in multi-agent environments ([NeurIPS 2023](https://arxiv.org/abs/2306.09299), [arXiv 2023](https://arxiv.org/abs/2309.13007)]. I have also written a couple of papers on evaluation of LLM reasoning ([arXiv 2023](https://arxiv.org/abs/2310.15123), [EMNLP 2023](https://arxiv.org/abs/2304.10703)). During my PhD, I have spent three wonderful summers, twice interning at [FAIR Labs, AI at Meta](https://ai.facebook.com/) and once at [Salesforce AI Research](https://www.salesforceairesearch.com/).
 
 Before starting my PhD, I was a Research Engineer at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems. Even before that, I did my M.Tech. in CS from IIT, Delhi, having worked with [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/) and developed the state-of-the-art Open Information Extraction system ([Open IE 5.0](https://github.com/dair-iitd/OpenIE-standalone)) (ACL 2017, COLING 2018).
 
 ## Recent News
 
+* **October 2023**: New pre-print from my FAIR Internship on [Branch-Solve-Merge](https://arxiv.org/abs/2310.15123) for improving LLM Evaluation and Generation.   
 * **October 2023**: [ReCEval](https://arxiv.org/abs/2304.10703) on evaluating CoT rationales is accepted to EMNLP 2023.   
 * **September 2023**: New pre-print out! [Diverse LLMs improve reasoning via multi-round discussion and convincing each other](https://arxiv.org/abs/2309.13007).
 * **September 2023**: [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) is accepted to NeurIPS 2023.
 * **June 2023**: New pre-print on [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) out on arXiv.
 * **May 2023**: Started Internship at FAIR Labs, hosted by [Xian Li](https://ai.facebook.com/people/xian-li/) and [Omer Levy](http://www.cs.tau.ac.il/~levyomer/).  
 * **May 2023**: [MURMUR](https://arxiv.org/abs/2212.08607) is accepted to [ACL Findings](https://2023.aclweb.org/).  
-* **January 2023**: [Summarization Programs](https://arxiv.org/abs/2209.10492) is accepted to [ICLR 2023](https://iclr.cc/).  
 
 ## Industry Experience
 
-* Research Intern (with [Xian Li](https://ai.facebook.com/people/xian-li/), [Omer Levy](http://www.cs.tau.ac.il/~levyomer/), [Jason Weston](https://ai.meta.com/people/jason-weston/), [Asli Celikyilmaz](http://asli.us/)), [FAIR Labs, Meta AI](https://ai.facebook.com/) (Summer 2023)
-* Research Intern (with [Asli Celikyilmaz](http://asli.us/)), [FAIR Labs, Meta AI](https://ai.facebook.com/) (Summer 2022)
+* Research Intern (with [Omer Levy](http://www.cs.tau.ac.il/~levyomer/), [Asli Celikyilmaz](http://asli.us/), [Jason Weston](https://ai.meta.com/people/jason-weston/), [Xian Li](https://ai.facebook.com/people/xian-li/)), [FAIR Labs, AI at Meta](https://ai.facebook.com/) (Summer 2023)
+* Research Intern (with [Asli Celikyilmaz](http://asli.us/)), [FAIR Labs, AI at Meta](https://ai.facebook.com/) (Summer 2022)
 * Research Intern (with [Nazneen Rajani](http://www.nazneenrajani.com/)), [Salesforce AI Research](https://www.salesforceairesearch.com/) (Summer 2021)
 * Research Engineer, [IBM Research](https://www.research.ibm.com/labs/india/) (2017-2019)
 * Member of Technical Staff, [Adobe Systems](https://www.adobe.com/in/) (2014-2015)
 
 ## Selected Publications [[Google Scholar](https://scholar.google.co.in/citations?user=sY5SyBgAAAAJ&hl=en)] [[dblp](https://dblp.uni-trier.de/pers/hd/s/Saha:Swarnadeep)]
+
+* **Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**  
+**Swarnadeep Saha**, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, and Xian Li  
+Pre-print on arXiv, 2023  
+[Long] [[paper](https://arxiv.org/abs/2310.15123)] [[code]()]
 
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
 Justin Chih-Yao Chen, **Swarnadeep Saha**, and Mohit Bansal   
@@ -132,4 +137,4 @@ Instructor: [Prof. Mausam](http://www.cse.iitd.ac.in/~mausam/)
 
 ## Professional Service
 
-* Reviewer for EMNLP 2022, ARR 2022, ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
+* Reviewer for EMNLP 2023, ACL 2023, CL 2023, EMNLP 2022, ARR 2022, ARR 2021, EMNLP 2021, AIJ 2021, NAACL 2021, AAAI 2020, AIED 2019, NAACL 2019, EMNLP 2018.
