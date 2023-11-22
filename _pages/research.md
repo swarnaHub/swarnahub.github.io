@@ -27,7 +27,7 @@ Pre-print on arXiv, 2023
 
 * **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 **Swarnadeep Saha**, Shiyue Zhang, Peter Hase, and Mohit Bansal   
-[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**) 2023     
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**), 2023     
 [[paper](https://arxiv.org/abs/2209.10492)] [[code](https://github.com/swarnaHub/SummarizationPrograms)] [Long] [Poster]
 
 * **MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation**  
