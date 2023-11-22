@@ -61,13 +61,13 @@ Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal
 
 ## Deductive Reasoning
 
-* **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning** 
+* **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning**  
 **Swarnadeep Saha**, Prateek Yadav, and Mohit Bansal  
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2021.naacl.org/) (**NAACL**), 2021     
-[[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)] [Long] [Oral] 
+[[paper](https://arxiv.org/abs/2106.01354)] [[code](https://github.com/swarnaHub/multiPRover)] [Long] [Oral]  
 
-* **PRover: Proof Generation for Interpretable Reasoning over Rules**
-**Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal  
+* **PRover: Proof Generation for Interpretable Reasoning over Rules**  
+**Swarnadeep Saha**, Sayan Ghosh, Shashank Srivastava, and Mohit Bansal    
 [Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) (**EMNLP**), 2020  
 [[paper](https://arxiv.org/abs/2010.02830)] [[code](https://github.com/swarnaHub/PRover)] [Long] [Oral]  
 
@@ -90,7 +90,7 @@ Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal
 [27th International Conference on Computational Linguistics](https://coling2018.org/) (**COLING**), 2018  
 [[paper](https://swarnahub.github.io/papers/COLING18.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [Long] [Oral] 
 
-* **Bootstrapping for Numerical Open IE** 
+* **Bootstrapping for Numerical Open IE**  
 **Swarnadeep Saha**, Harinder Pal, and Mausam  
 [55th Annual Meeting of the Association for Computational Linguistics](http://acl2017.org/) (**ACL**), 2017  
 [[paper](https://swarnahub.github.io/papers/ACL17.pdf)] [[code](https://github.com/dair-iitd/OpenIE-standalone)] [Short] [Poster]
@@ -102,7 +102,7 @@ Chul Sung, Tejas Dhamecha, **Swarnadeep Saha**, Tengfei Ma, Vinay Reddy, and Ris
 [Conference on Empirical Methods in Natural Language Processing](http://emnlp-ijcnlp2019.org/) (**EMNLP-IJCNLP**), 2019  
 [[paper](https://swarnahub.github.io/papers/EMNLP19.pdf)] [Short] [Poster]
 
-* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach**
+* **Aligning Learning Objectives to Learning Resources: A Lexico-Semantic Spatial Approach**  
 **Swarnadeep Saha**, Malolan Chetlur, Tejas Indulal Dhamecha, W M Gayathri K Wijayarathna, Red Mendoza, Paul Gagnon, Nabil Zary, and Shantanu Godbole  
 [28th International Joint Conference on Artificial Intelligence](https://www.ijcai19.org/) (**IJCAI**), 2019  
 [[paper](https://swarnahub.github.io/papers/IJCAI19.pdf)] [Long] [Oral] 
