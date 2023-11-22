@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Research Intern, [FAIR Labs, AI at Meta](https://ai.facebook.com/)** (Summer 2023)
-    * Mentors: [Omer Levy](http://www.cs.tau.ac.il/~levyomer/), [Asli Celikyilmaz](http://asli.us/), [Jason Weston](https://ai.meta.com/people/jason-weston/), [Xian Li](https://ai.facebook.com/people/xian-li/))
+    * Mentors: [Omer Levy](http://www.cs.tau.ac.il/~levyomer/), [Asli Celikyilmaz](http://asli.us/), [Jason Weston](https://ai.meta.com/people/jason-weston/), [Xian Li](https://ai.facebook.com/people/xian-li/)
     * Wrote a paper on [Large Language Model Evaluation](https://arxiv.org/abs/2310.15123)
 * **Research Intern, [FAIR Labs, AI at Meta](https://ai.facebook.com/)** (Summer 2022)
     * Mentor: [Asli Celikyilmaz](http://asli.us/)
