@@ -15,7 +15,7 @@ Papers are roughly grouped by topic below. For a full list, see my [Google Schol
 
 * **MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**  
 Justin Chih-Yao Chen\*, **Swarnadeep Saha**\*, Elias Stengel-Eskin, Mohit Bansal  
-Pre-print on arXiv, 2024
+Pre-print on arXiv, 2024  
 [[paper](https://arxiv.org/abs/2402.01620)] [[code](https://github.com/dinobby/MAGDi)] [[tweet](https://twitter.com/swarnaNLP/status/1754556833258471613)] [Long]  
 
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
