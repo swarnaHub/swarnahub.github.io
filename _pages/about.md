@@ -26,6 +26,7 @@ During my PhD, I have spent three wonderful summers, twice interning at [FAIR La
 
 ## Recent News
 
+* **February 2024**: New pre-print on [Structured Distillation from Multi-agent Interaction Graphs](https://arxiv.org/abs/2402.01620).  
 * **October 2023**: New pre-print from my FAIR Internship on [Branch-Solve-Merge](https://arxiv.org/abs/2310.15123) for improving LLM Evaluation and Generation.   
 * **October 2023**: [ReCEval](https://arxiv.org/abs/2304.10703) on evaluating CoT rationales is accepted to EMNLP 2023.   
 * **September 2023**: New pre-print out! [Diverse LLMs improve reasoning via multi-round discussion and convincing each other](https://arxiv.org/abs/2309.13007).
