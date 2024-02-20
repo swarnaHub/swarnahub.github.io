@@ -59,7 +59,7 @@ Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal
 [Annual Meeting of the Association for Computational Linguistics](https://www.2022.aclweb.org/) (**ACL**), 2022     
 [[paper](https://arxiv.org/abs/2204.04813)] [[code](https://github.com/swarnaHub/ExplagraphGen)] [[tweet](https://twitter.com/swarnaNLP/status/1528788008639467520)] [Long] [Poster] 
 
-* **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**
+* **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning**  
 **Swarnadeep Saha**, Prateek Yadav, Lisa Bauer, and Mohit Bansal  
 [Conference on Empirical Methods in Natural Language Processing](https://2021.emnlp.org/) (**EMNLP**), 2021     
 [[paper](https://arxiv.org/abs/2104.07644)] [[data/code](https://github.com/swarnaHub/ExplaGraphs)] [[website](https://explagraphs.github.io/)] [[tweet](https://twitter.com/swarnaNLP/status/1383090332401799171)] [Long] [Oral] 
