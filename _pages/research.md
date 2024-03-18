@@ -44,8 +44,8 @@ Pre-print on arXiv, 2023
 
 * **Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**  
 **Swarnadeep Saha**, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, and Xian Li  
-Pre-print on arXiv, 2023  
-[[paper](https://arxiv.org/abs/2310.15123)] [[tweet](https://twitter.com/jaseweston/status/1716635331393380619)] [Long] 
+[Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/) (**NAACL**), 2024  
+[[paper](https://arxiv.org/abs/2310.15123)] [[tweet](https://twitter.com/jaseweston/status/1716635331393380619)] [Long]  
 
 * **ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**  
 Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal  

@@ -26,6 +26,7 @@ During my PhD, I have spent three wonderful summers, twice interning at [FAIR La
 
 ## Recent News
 
+* **March 2024**: [Branch-Solve-Merge](https://arxiv.org/abs/2310.15123) is accepted to NAACL 2024.  
 * **February 2024**: New pre-print on [Structured Distillation from Multi-agent Interaction Graphs](https://arxiv.org/abs/2402.01620).  
 * **October 2023**: New pre-print from my FAIR Internship on [Branch-Solve-Merge](https://arxiv.org/abs/2310.15123) for improving LLM Evaluation and Generation.   
 * **October 2023**: [ReCEval](https://arxiv.org/abs/2304.10703) on evaluating CoT rationales is accepted to EMNLP 2023.   
