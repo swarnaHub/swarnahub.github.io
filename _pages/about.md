@@ -26,6 +26,7 @@ During my PhD, I have spent three wonderful summers, twice interning at [FAIR La
 
 ## Recent News
 
+* **May 2024**: [ReConcile](https://arxiv.org/abs/2309.13007) is accepted to ACL 2024.  
 * **May 2024**: [MAGDi](https://arxiv.org/abs/2402.01620) is accepted to ICML 2024.  
 * **April 2024**: Defended a thesis on "Multi-step Reasoning over Natural Language". It will be online soon.  
 * **March 2024**: [Branch-Solve-Merge](https://arxiv.org/abs/2310.15123) is accepted to NAACL 2024.  

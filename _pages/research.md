@@ -20,7 +20,7 @@ Justin Chih-Yao Chen\*, **Swarnadeep Saha**\*, Elias Stengel-Eskin, Mohit Bansal
 
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
 Justin Chih-Yao Chen, **Swarnadeep Saha**, and Mohit Bansal   
-Pre-print on arXiv, 2023      
+[Annual Meeting of the Association for Computational Linguistics](https://www.2024.aclweb.org/) (**ACL**), 2024      
 [[paper](https://arxiv.org/abs/2309.13007)] [[code](https://github.com/dinobby/ReConcile)] [[tweet](https://twitter.com/swarnaNLP/status/1706363215410549215)] [Long]
 
 * **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization**  
