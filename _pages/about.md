@@ -10,7 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a final year Computer Science PhD student in the [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2022) and previously, by a Rebecca and Munroe Cobey Fellowship.
+In the Fall, I will join [FAIR Labs](https://ai.meta.com/research/), Meta as a Research Scientist to work with [Dr. Jason Weston](https://www.thespermwhale.com/jaseweston/).
+
+I recently obtained a PhD in Computer Science from [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2022) and a Rebecca and Munroe Cobey Fellowship.
 
 I study Machine Learning and NLP. Broadly, I am interested in developing language agents that can perform complex, multi-step reasoning tasks (often referred to as the [System 2 Reasoning](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=Thinking%2C%20Fast%20and%20Slow%20is,book%20by%20psychologist%20Daniel%20Kahneman.&text=The%20book's%20main%20thesis%20is,more%20deliberative%2C%20and%20more%20logical.)). Below are some of the main topics that I've worked on (publications [here](https://swarnahub.github.io/research/)):
 
