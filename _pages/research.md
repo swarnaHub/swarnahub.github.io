@@ -11,7 +11,12 @@ permalink: /research/
 Papers are roughly grouped by topic below. For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=sY5SyBgAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Swarnadeep-Saha/35106509?sort=influence&page=2).
 
 
-## Reasoning in Multi-Agent Systems
+## Reasoning and Planning in Multi-Agent Systems
+
+* **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
+**Swarnadeep Saha**, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
+Pre-print on arXiv, 2024  
+[[paper](https://arxiv.org/abs/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)] [[tweet](https://x.com/swarnaNLP/status/1815430142870908971)] [Long]  
 
 * **MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**  
 Justin Chih-Yao Chen\*, **Swarnadeep Saha**\*, Elias Stengel-Eskin, Mohit Bansal  
