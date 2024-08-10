@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me
 
-In the Fall, I will join [FAIR Labs](https://ai.meta.com/research/), Meta as a Research Scientist to work with [Dr. Jason Weston](https://www.thespermwhale.com/jaseweston/).
+I am a Research Scientist on the Core ML team at [FAIR Labs](https://ai.meta.com/research/), Meta. I work with [Dr. Jason Weston](https://www.thespermwhale.com/jaseweston/) on Reasoning, Memory, and Alignment of Large Language Models.
 
-I recently obtained a PhD in Computer Science from [MURGe Lab](https://murgelab.cs.unc.edu/) (part of the bigger [UNC NLP Lab](https://nlp.cs.unc.edu/)) at the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2022) and a Rebecca and Munroe Cobey Fellowship.
+I recently obtained a PhD in Computer Science from the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2022) and a Rebecca and Munroe Cobey Fellowship.
 
 I study Machine Learning and NLP. Broadly, I am interested in developing language agents that can perform complex, multi-step reasoning and planning tasks (often referred to as the [System 2 Reasoning](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=Thinking%2C%20Fast%20and%20Slow%20is,book%20by%20psychologist%20Daniel%20Kahneman.&text=The%20book's%20main%20thesis%20is,more%20deliberative%2C%20and%20more%20logical.)). I see human language as the ideal medium for reasoning, communication, and collaboration among agents. Below are some of the main topics that I've worked on (publications [here](https://swarnahub.github.io/research/)):
 
@@ -22,12 +22,9 @@ I study Machine Learning and NLP. Broadly, I am interested in developing languag
 4. Structured Reasoning over Implicit Knowledge
 5. Deductive Reasoning
 
-During my PhD, I have spent three wonderful summers, twice interning at [FAIR Labs, AI at Meta](https://ai.facebook.com/) and once at [Salesforce AI Research](https://www.salesforceairesearch.com/). Before starting my PhD, I was a Research Engineer at [IBM Research - India](https://www.research.ibm.com/labs/india/) building industry-scale Intelligent Tutoring Systems. Even before that, I did my M.Tech. in CS from IIT, Delhi, where I was awarded with the best Master's thesis.
-
-*Email:* swarna@cs.unc.edu
-
 ## Recent News
 
+* **August 2024**: Joined FAIR Labs at Meta as Research Scientist.  
 * **July 2024**: [System-1.x](https://arxiv.org/abs/2407.14414), my final PhD paper is out on arXiv.  
 * **May 2024**: [ReConcile](https://arxiv.org/abs/2309.13007) is accepted to ACL 2024.  
 * **May 2024**: [MAGDi](https://arxiv.org/abs/2402.01620) is accepted to ICML 2024.  
