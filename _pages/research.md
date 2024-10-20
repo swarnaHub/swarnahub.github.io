@@ -18,6 +18,11 @@ Papers are roughly grouped by topic below. For a full list, see my [Google Schol
 Pre-print on arXiv, 2024  
 [[paper](https://arxiv.org/abs/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)] [[tweet](https://x.com/swarnaNLP/status/1815430142870908971)] [Long]  
 
+* **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
+Justin Chih-Yao Chen, Archiki Prasad, **Swarnadeep Saha**, Elias Stengel-Eskin, Mohit Bansal    
+Pre-print on arXiv, 2024  
+[[paper](https://arxiv.org/abs/2409.12147)] [[code](https://github.com/dinobby/MAgICoRe)] [[tweet](https://x.com/cyjustinchen/status/1836813702806581707)] [Long]  
+
 * **MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**  
 Justin Chih-Yao Chen\*, **Swarnadeep Saha**\*, Elias Stengel-Eskin, Mohit Bansal  
 [International Conference on Machine Learning](https://icml.cc/Conferences/2024) (**ICML**), 2024  
