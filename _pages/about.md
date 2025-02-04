@@ -24,7 +24,7 @@ I study Machine Learning and NLP. Broadly, I am interested in developing languag
 
 ## Recent News
 
-* **January 2025**: [EvalPlanner](https://arxiv.org/abs/2501.18099), my new work out of FAIR is out on arXiv.  
+* **January 2025**: [EvalPlanner](https://arxiv.org/abs/2501.18099), my new work out of FAIR is now on arXiv.  
 * **January 2025**: [System-1.x](https://arxiv.org/abs/2407.14414) is accepted to ICLR 2025.  
 * **August 2024**: Joined FAIR Labs at Meta as Research Scientist.  
 * **July 2024**: [System-1.x](https://arxiv.org/abs/2407.14414), my final PhD paper is out on arXiv.  

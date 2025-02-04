@@ -20,7 +20,7 @@ Pre-print on arXiv, 2025
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 **Swarnadeep Saha**, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
-ICLR 2025  
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**) 2025  
 [[paper](https://arxiv.org/abs/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)] [[tweet](https://x.com/swarnaNLP/status/1815430142870908971)] [Long]  
 
 * **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
