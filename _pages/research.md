@@ -11,11 +11,16 @@ permalink: /research/
 Papers are roughly grouped by topic below. For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=sY5SyBgAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Swarnadeep-Saha/35106509?sort=influence&page=2).
 
 
-## Reasoning and Planning in Multi-Agent Systems
+## Planning and Reasoning in Multi-Agent Systems
+
+* **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**  
+**Swarnadeep Saha**, Xian Li, Marjan Ghazvininejad, Jason Weston, Tianlu Wang  
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2501.18099)] [[code]()] [[tweet](https://x.com/jaseweston/status/1885153770662760472)] [Long]  
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 **Swarnadeep Saha**, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
-Pre-print on arXiv, 2024  
+ICLR 2025  
 [[paper](https://arxiv.org/abs/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)] [[tweet](https://x.com/swarnaNLP/status/1815430142870908971)] [Long]  
 
 * **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  

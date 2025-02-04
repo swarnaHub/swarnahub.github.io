@@ -24,6 +24,8 @@ I study Machine Learning and NLP. Broadly, I am interested in developing languag
 
 ## Recent News
 
+* **January 2025**: [EvalPlanner](https://arxiv.org/abs/2501.18099), my new work out of FAIR is out on arXiv.  
+* **January 2025**: [System-1.x](https://arxiv.org/abs/2407.14414) is accepted to ICLR 2025.  
 * **August 2024**: Joined FAIR Labs at Meta as Research Scientist.  
 * **July 2024**: [System-1.x](https://arxiv.org/abs/2407.14414), my final PhD paper is out on arXiv.  
 * **May 2024**: [ReConcile](https://arxiv.org/abs/2309.13007) is accepted to ACL 2024.  
@@ -36,6 +38,4 @@ I study Machine Learning and NLP. Broadly, I am interested in developing languag
 * **September 2023**: New pre-print out! [Diverse LLMs improve reasoning via multi-round discussion and convincing each other](https://arxiv.org/abs/2309.13007).
 * **September 2023**: [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) is accepted to NeurIPS 2023.
 * **June 2023**: New pre-print on [Can Language Models Teach Weaker Agents](https://arxiv.org/abs/2306.09299) out on arXiv.
-* **May 2023**: Started Internship at FAIR Labs, hosted by [Xian Li](https://ai.facebook.com/people/xian-li/) and [Omer Levy](http://www.cs.tau.ac.il/~levyomer/).  
-* **May 2023**: [MURMUR](https://arxiv.org/abs/2212.08607) is accepted to [ACL Findings](https://2023.aclweb.org/).  
 
