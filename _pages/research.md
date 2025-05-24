@@ -10,13 +10,24 @@ permalink: /research/
 
 Papers are roughly grouped by topic below. For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=sY5SyBgAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Swarnadeep-Saha/35106509?sort=influence&page=2).
 
+## LLM-as-a-Judge and Generative Reward Models
 
-## Planning and Reasoning in Multi-Agent Systems
+* **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**  
+Chenxi Whitehouse, Tianlu Wang, Ping Yu, Xian Li, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**. 
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2505.10320)] [[tweet](https://x.com/jaseweston/status/1923186392420450545)] [Long]  
 
 * **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**  
 **Swarnadeep Saha**, Xian Li, Marjan Ghazvininejad, Jason Weston, Tianlu Wang  
-Pre-print on arXiv, 2025  
-[[paper](https://arxiv.org/abs/2501.18099)] [[code]()] [[tweet](https://x.com/jaseweston/status/1885153770662760472)] [Long]  
+[International Conference on Machine Learning](https://icml.cc/) (**ICML**), 2025  
+[[paper](https://arxiv.org/abs/2501.18099)] [[tweet](https://x.com/jaseweston/status/1885153770662760472)] [Long]  
+
+* **Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**  
+**Swarnadeep Saha**, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, and Xian Li  
+[Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/) (**NAACL**), 2024  
+[[paper](https://arxiv.org/abs/2310.15123)] [[tweet](https://twitter.com/jaseweston/status/1716635331393380619)] [Long]  
+
+## Planning and Reasoning in Multi-Agent Systems
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 **Swarnadeep Saha**, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
@@ -43,6 +54,11 @@ Justin Chih-Yao Chen, **Swarnadeep Saha**, and Mohit Bansal
 [Neural Information Processing Systems](https://nips.cc/) (**NeurIPS**), 2023      
 [[paper](https://arxiv.org/abs/2306.09299)] [[code](https://github.com/swarnaHub/ExplanationIntervention)] [[tweet](https://twitter.com/swarnaNLP/status/1669769826963955714)] [Long] [Poster] 
 
+* **ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**  
+Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal  
+[Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org/) (**EMNLP**), 2023      
+[[paper](https://arxiv.org/abs/2304.10703)] [[code](https://github.com/archiki/ReCEval)] [[tweet](https://twitter.com/ArchikiPrasad/status/1650566243118874624)] [Long] [Poster] 
+
 ## Attributable Generative Reasoning
 
 * **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
@@ -54,18 +70,6 @@ Justin Chih-Yao Chen, **Swarnadeep Saha**, and Mohit Bansal
 **Swarnadeep Saha**, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, and Asli Celikyilmaz  
 [Annual Meeting of the Association for Computational Linguistics](https://www.2023.aclweb.org/) (**Findings of ACL**), 2023    
 [[paper](https://arxiv.org/abs/2212.08607)] [[tweet](https://twitter.com/swarnaNLP/status/1604856665630642176)] [Long] [Poster] 
-
-## Large Language Model Evaluation
-
-* **Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**  
-**Swarnadeep Saha**, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, and Xian Li  
-[Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/) (**NAACL**), 2024  
-[[paper](https://arxiv.org/abs/2310.15123)] [[tweet](https://twitter.com/jaseweston/status/1716635331393380619)] [Long]  
-
-* **ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**  
-Archiki Prasad, **Swarnadeep Saha**, Xiang Zhou, and Mohit Bansal  
-[Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org/) (**EMNLP**), 2023      
-[[paper](https://arxiv.org/abs/2304.10703)] [[code](https://github.com/archiki/ReCEval)] [[tweet](https://twitter.com/ArchikiPrasad/status/1650566243118874624)] [Long] [Poster]
 
 ## Structured Reasoning over Implicit Knowledge
 
