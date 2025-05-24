@@ -25,6 +25,7 @@ I study Machine Learning and NLP. Broadly, I am interested in developing languag
 ## Recent News
 
 * **May 2025**: [J1](https://arxiv.org/abs/2505.10320), new paper on RL recipes for training LLM-as-a-Judge, is now on arXiv.  
+* **May 2025**: Organizing the [RAM2 workshop](https://facebookresearch.github.io/RAM/workshop/COLM_2025/), co-located with [COLM 2025](https://colmweb.org/). Submit your papers soon!  
 * **May 2025**: [EvalPlanner](https://arxiv.org/abs/2501.18099) is accepted to ICML 2025.  
 * **January 2025**: [EvalPlanner](https://arxiv.org/abs/2501.18099), my first work out of FAIR, is now on arXiv.  
 * **January 2025**: [System-1.x](https://arxiv.org/abs/2407.14414) is accepted to ICLR 2025.  

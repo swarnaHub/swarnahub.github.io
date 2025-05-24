@@ -13,7 +13,7 @@ Papers are roughly grouped by topic below. For a full list, see my [Google Schol
 ## LLM-as-a-Judge and Generative Reward Models
 
 * **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**  
-Chenxi Whitehouse, Tianlu Wang, Ping Yu, Xian Li, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**. 
+Chenxi Whitehouse, Tianlu Wang, Ping Yu, Xian Li, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
 Pre-print on arXiv, 2025  
 [[paper](https://arxiv.org/abs/2505.10320)] [[tweet](https://x.com/jaseweston/status/1923186392420450545)] [Long]  
 
