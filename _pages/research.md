@@ -10,7 +10,7 @@ permalink: /research/
 
 Papers are roughly grouped by topic below. For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=sY5SyBgAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Swarnadeep-Saha/35106509?sort=influence&page=2).
 
-## LLM-as-a-Judge and Generative Reward Models
+## LLM-as-a-Judge and Reward Models
 
 * **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**  
 Chenxi Whitehouse, Tianlu Wang, Ping Yu, Xian Li, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
@@ -27,7 +27,17 @@ Pre-print on arXiv, 2025
 [Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/) (**NAACL**), 2024  
 [[paper](https://arxiv.org/abs/2310.15123)] [[tweet](https://twitter.com/jaseweston/status/1716635331393380619)] [Long]  
 
-## Planning and Reasoning in Multi-Agent Systems
+## Reasoning and Post-Training
+
+* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
+Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2508.13141)] [[tweet](https://x.com/jaseweston/status/1957627532963926389)] [Long]  
+
+* **Bridging Offline and Online Reinforcement Learning for LLMs**  
+Jack Lanchantin, Angelica Chen, Janice Lan, Xian Li, **Swarnadeep Saha**, Tianlu Wang, Jing Xu, Ping Yu, Weizhe Yuan, Jason E Weston, Sainbayar Sukhbaatar, Ilia Kulikov  
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2506.21495)] [[tweet](https://x.com/jaseweston/status/1939673136842313960)] [Long]  
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 **Swarnadeep Saha**, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
