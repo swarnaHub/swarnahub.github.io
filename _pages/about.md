@@ -10,12 +10,13 @@ redirect_from:
 
 ## About Me
 
-I am a Research Scientist on the Alignment team at [FAIR](https://ai.meta.com/research/), Meta. I work with [Dr. Jason Weston](https://www.thespermwhale.com/jaseweston/) on Reasoning, Memory, and Alignment of Large Language Models. Most of my current research focuses on finding better recipes for improving post-training and reasoning in LLMs.
+I am a Research Scientist on the Alignment team at [FAIR](https://ai.meta.com/research/), Meta. I work with [Dr. Jason Weston](https://www.thespermwhale.com/jaseweston/) on Reasoning, Memory, and Alignment of Large Language Models. In particular, I do research on Self-improving and Co-improving LLMs by building robust Reward Models and scalable RL recipes.
 
 Previously, I obtained a PhD in Computer Science from the University of North Carolina at Chapel Hill, advised by [Prof. Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My PhD was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2022) and a Rebecca and Munroe Cobey Fellowship. A list of my publications (grouped by topics) can be found [here](https://swarnahub.github.io/research/):
 
 ## Recent News
 
+* **Oct 2025**: Three new pre-prints on better post-training methods: [Hybrid Reinforcement](https://arxiv.org/abs/2510.07242), [Self-aggregation](https://arxiv.org/abs/2509.06870), and [Improving Diversity](https://arxiv.org/abs/2509.02534).  
 * **Aug 2025**: [Bridging Offline and Online RL](https://arxiv.org/abs/2506.21495) and [OptimalThinkingBench](https://arxiv.org/abs/2508.13141) are out on arXiv.  
 * **May 2025**: [J1](https://arxiv.org/abs/2505.10320), new paper on RL recipes for training LLM-as-a-Judge, is now on arXiv.  
 * **May 2025**: Organizing the [RAM2 workshop](https://facebookresearch.github.io/RAM/workshop/COLM_2025/), co-located with [COLM 2025](https://colmweb.org/). Submit your papers soon!  

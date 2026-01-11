@@ -29,6 +29,21 @@ Pre-print on arXiv, 2025
 
 ## Reasoning and Post-Training
 
+* **Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense**  
+Leitian Tao, Ilia Kulikov, **Swarnadeep Saha**, Tianlu Wang, Jing Xu, Sharon Li, Jason E Weston, Ping Yu  
+Pre-print on arXiv, 2025
+[[paper](https://arxiv.org/abs/2510.07242)] [Long]  
+
+* **The majority is not always right: Rl training for solution aggregation**  
+Wenting Zhao, Pranjal Aggarwal, **Swarnadeep Saha**, Asli Celikyilmaz, Jason Weston, Ilia Kulikov  
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2509.06870)] [Long]  
+
+* **Jointly reinforcing diversity and quality in language model generations**  
+Tianjian Li, Yiming Zhang, Ping Yu, **Swarnadeep Saha**, Daniel Khashabi, Jason Weston, Jack Lanchantin, Tianlu Wang  
+Pre-print on arXiv, 2025  
+[[paper](https://arxiv.org/abs/2509.02534)] [Long]  
+
 * **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
 Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
 Pre-print on arXiv, 2025  
