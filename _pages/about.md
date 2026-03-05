@@ -16,6 +16,7 @@ Previously, I obtained a PhD in Computer Science from the University of North Ca
 
 ## Recent News
 
+* **Jan 2026**: Three papers accepted to ICLR 2026: [J1](https://arxiv.org/abs/2505.10320), [OptimalThinkingBench](https://arxiv.org/abs/2508.13141) and [Hybrid Reinforcement](https://arxiv.org/abs/2510.07242).  
 * **Oct 2025**: Three new pre-prints on better post-training methods: [Hybrid Reinforcement](https://arxiv.org/abs/2510.07242), [Self-aggregation](https://arxiv.org/abs/2509.06870), and [Improving Diversity](https://arxiv.org/abs/2509.02534).  
 * **Aug 2025**: [Bridging Offline and Online RL](https://arxiv.org/abs/2506.21495) and [OptimalThinkingBench](https://arxiv.org/abs/2508.13141) are out on arXiv.  
 * **May 2025**: [J1](https://arxiv.org/abs/2505.10320), new paper on RL recipes for training LLM-as-a-Judge, is now on arXiv.  

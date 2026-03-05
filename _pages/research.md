@@ -14,7 +14,7 @@ Papers are roughly grouped by topic below. For a full list, see my [Google Schol
 
 * **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**  
 Chenxi Whitehouse, Tianlu Wang, Ping Yu, Xian Li, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
-Pre-print on arXiv, 2025  
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**), 2026  
 [[paper](https://arxiv.org/abs/2505.10320)] [[tweet](https://x.com/jaseweston/status/1923186392420450545)] [Long]  
 
 * **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**  
@@ -29,9 +29,14 @@ Pre-print on arXiv, 2025
 
 ## Reasoning and Post-Training
 
+* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
+Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**), 2026    
+[[paper](https://arxiv.org/abs/2508.13141)] [[tweet](https://x.com/jaseweston/status/1957627532963926389)] [Long]  
+
 * **Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense**  
 Leitian Tao, Ilia Kulikov, **Swarnadeep Saha**, Tianlu Wang, Jing Xu, Sharon Li, Jason E Weston, Ping Yu  
-Pre-print on arXiv, 2025
+[International Conference on Learning Representations](https://iclr.cc/) (**ICLR**), 2026  
 [[paper](https://arxiv.org/abs/2510.07242)] [Long]  
 
 * **The majority is not always right: Rl training for solution aggregation**  
@@ -43,11 +48,6 @@ Pre-print on arXiv, 2025
 Tianjian Li, Yiming Zhang, Ping Yu, **Swarnadeep Saha**, Daniel Khashabi, Jason Weston, Jack Lanchantin, Tianlu Wang  
 Pre-print on arXiv, 2025  
 [[paper](https://arxiv.org/abs/2509.02534)] [Long]  
-
-* **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
-Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, **Swarnadeep Saha**  
-Pre-print on arXiv, 2025  
-[[paper](https://arxiv.org/abs/2508.13141)] [[tweet](https://x.com/jaseweston/status/1957627532963926389)] [Long]  
 
 * **Bridging Offline and Online Reinforcement Learning for LLMs**  
 Jack Lanchantin, Angelica Chen, Janice Lan, Xian Li, **Swarnadeep Saha**, Tianlu Wang, Jing Xu, Ping Yu, Weizhe Yuan, Jason E Weston, Sainbayar Sukhbaatar, Ilia Kulikov  
